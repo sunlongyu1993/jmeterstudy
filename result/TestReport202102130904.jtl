@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<sample t="158" it="0" lt="0" ct="0" ts="1613221496393" s="true" lb="抽奖" rc="200" rm="OK" tn="dubbo 1-1" dt="text" by="386" sby="0" ng="1" na="1"/>
+<sample t="80" it="0" lt="0" ct="0" ts="1613221496590" s="true" lb="积分兑换" rc="200" rm="OK" tn="dubbo 1-1" dt="text" by="388" sby="0" ng="1" na="1"/>
+<sample t="1" it="0" lt="0" ct="0" ts="1613221496767" s="true" lb="调试取样器" rc="200" rm="OK" tn="dubbo 1-1" dt="text" by="291" sby="0" ng="1" na="1"/>
+
+</testResults>
